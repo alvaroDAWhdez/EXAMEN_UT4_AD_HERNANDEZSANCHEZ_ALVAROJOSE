@@ -1,0 +1,7 @@
+Main\MainNetControl.class
+Entity\CazaLigero.class
+Entity\Nave.class
+Entity\DestructorEstelar.class
+Controlador\HoloNetControl.class
+Entity\Planeta.class
+Entity\HibernateUtil.class
